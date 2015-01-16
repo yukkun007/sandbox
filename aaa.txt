@@ -7,3 +7,6 @@ ddd
 
 func a() {
 }
+
+func 1() {
+}
