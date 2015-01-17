@@ -5,6 +5,7 @@ bbb
 ccc
 ddd
 
+sandbox2
 func a() {
 }
 
