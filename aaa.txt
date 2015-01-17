@@ -5,7 +5,7 @@ bbb
 ccc
 ddd
 
-編集した。at sandbox2
+編集した。 マージ解消。
 
 sandbox2
 func a() {
