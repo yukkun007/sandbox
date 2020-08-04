@@ -18,3 +18,7 @@ func 2() {
 func test3() {
     print("hoge)
 }
+
+func test5() {
+    // test
+}
