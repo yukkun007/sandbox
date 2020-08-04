@@ -11,8 +11,10 @@ sandbox2
 func a() {
 }
 
-func 1() {
-}
 
 func 2() {
+}
+
+func test3() {
+    print("hoge)
 }
