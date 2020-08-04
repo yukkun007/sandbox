@@ -16,3 +16,7 @@ func 1() {
 
 func 2() {
 }
+
+func test_cherry() {
+    print("this is cherry.");
+}
