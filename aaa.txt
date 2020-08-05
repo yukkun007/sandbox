@@ -11,10 +11,16 @@ sandbox2
 func a() {
 }
 
-func 1() {
-}
 
 func 2() {
+}
+
+func test3() {
+    print("hoge)
+}
+
+func test5() {
+    // test
 }
 
 func test_cherry() {
