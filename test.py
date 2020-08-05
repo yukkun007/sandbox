@@ -13,3 +13,9 @@ def _innner_func():
 def test3():
     print("this is test3")
     _innner_func()
+
+def test4():
+    print("this is test4")
+
+def test5():
+    print("this is test5")
