@@ -22,3 +22,7 @@ func test3() {
 func test5() {
     // test
 }
+
+func test_cherry() {
+    print("this is cherry.");
+}
